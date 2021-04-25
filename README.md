@@ -104,7 +104,7 @@ Here's a blank template to get started:
 
 ### Built With
 
-* [Bootstrap](https://getbootstrap.com)
+* [Python](https://www.python.org/)
 * [Django](https://www.djangoproject.com)
 
 <!-- GETTING STARTED -->
@@ -115,16 +115,20 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
+* python
+  ```sh
+  https://www.python.org/
+  ```
+* django
+  ```sh
+  https://www.djangoproject.com
+  ```
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/GinoSalazarVillena/Tarea1Metodologia.git
    ```
 2. Install NPM packages
    ```sh
