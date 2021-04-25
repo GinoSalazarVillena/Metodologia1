@@ -95,7 +95,8 @@ Se llama EZ Hotel es un sistema web y aplicación  de escritorio. Su ventaja sob
     <img src="images/screenshot.png" alt="Logo" width="750" height="500">
   </a>
 </p>
-
+-------------------------------------------------
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
