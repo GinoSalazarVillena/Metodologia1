@@ -124,6 +124,7 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   https://www.djangoproject.com
   ```
+============================================================================
 ### Installation
 
 1. Clone the repo
@@ -134,7 +135,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-
+============================================================================
 
 
 <!-- USAGE EXAMPLES -->
