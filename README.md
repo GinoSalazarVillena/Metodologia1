@@ -35,13 +35,13 @@ Repositorio Proyecto - EZ Hotel
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="300" height="300">
+    <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">EZ Hotel</h3>
 
   <p align="center">
-    project_description
+    Es un proyecto para administrar el flujo de personas dentro de un negocio hotelero. Se llama EZ Hotel es un sistema web y aplicación  de escritorio. Su ventaja sobre la competencia es que engloba el sistema financiero junto con el sistema administrativo en una sola aplicación.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
