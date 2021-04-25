@@ -88,21 +88,12 @@ Repositorio Proyecto - EZ Hotel
 ## About The Project
 Se llama EZ Hotel es un sistema web y aplicación  de escritorio. Su ventaja sobre la competencia es que engloba el sistema financiero junto con el sistema administrativo en una sola aplicación.
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/screenshot.png" alt="Logo" width="750" height="500">
-  </a>
-</p>
-
 Click izquierdo en la imagen para visitar la pagina
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 ### Built With
 
-* [Bootstrap](https://getbootstrap.com)
 * [Python](https://www.python.org/)
 * [Django](https://www.djangoproject.com)
 
@@ -176,7 +167,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Presentación del equipo scrum.
+PO: Diego Alegría 
+SM: Matías Aravena
+Development team:
+Gino Salazar
+Nicolás Salinas
+Jean Paul Moussiaux
+Jean Contreras
+Cristian Millán
+Alejandro Bórquez
+
 
 Project Link: [https://github.com/GinoSalazarVillena/Tarea1Metodologia](https://github.com/GinoSalazarVillena/Tarea1Metodologia)
 
