@@ -99,9 +99,6 @@ Here's a blank template to get started:
 
 * [Bootstrap](https://getbootstrap.com)
 * [Django](https://www.djangoproject.com)
-* []()
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
