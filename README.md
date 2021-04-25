@@ -88,8 +88,11 @@ Repositorio Proyecto - EZ Hotel
 ## About The Project
 Se llama EZ Hotel es un sistema web y aplicación  de escritorio. Su ventaja sobre la competencia es que engloba el sistema financiero junto con el sistema administrativo en una sola aplicación.
 
+
+
 Click izquierdo en la imagen para visitar la pagina
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 
 ### Built With
@@ -115,6 +118,15 @@ This is an example of how to list things you need to use the software and how to
   https://www.djangoproject.com
   ```
 ============================================================================
+## Getting Started
+Cronograma de proyecto
+<br />
+<p align="center">
+  <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">
+    <img src="images/cronograma.png" alt="Logo" width="500" height="500">
+  </a>
+</p>
+
 ### Installation
 
 1. Clone the repo
