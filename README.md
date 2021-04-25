@@ -88,6 +88,29 @@ Repositorio Proyecto - EZ Hotel
 ## About The Project
 Es un proyecto para administrar el flujo de personas dentro de un negocio hotelero. Se llama EZ Hotel es un sistema web y aplicación  de escritorio. Su ventaja sobre la competencia es que engloba el sistema financiero junto con el sistema administrativo en una sola aplicación.
 
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Best-README-Template</h3>
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</p>
+
 [![Product Name Screen Shot][product-screenshot]](https://www.djangoproject.com/)
 
 Here's a blank template to get started:
