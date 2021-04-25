@@ -43,12 +43,12 @@ Repositorio Proyecto - EZ Hotel
   <p align="center">
     Es un proyecto para administrar el flujo de personas dentro de un negocio hotelero.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">Report Bug</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
@@ -196,15 +196,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/GinoSalazarVillena/Tarea1Metodologia.svg?style=for-the-badge
+[contributors-url]: https://github.com/GinoSalazarVillena/Tarea1Metodologia/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/GinoSalazarVillena/Tarea1Metodologia.svg?style=for-the-badge
+[forks-url]: https://github.com/GinoSalazarVillena/Tarea1Metodologia/network/members
+[stars-shield]: https://img.shields.io/github/stars/GinoSalazarVillena/Tarea1Metodologia.svg?style=for-the-badge
+[stars-url]: https://github.com/GinoSalazarVillena/Tarea1Metodologia/stargazers
+[issues-shield]: https://img.shields.io/github/issues/GinoSalazarVillena/Tarea1Metodologia.svg?style=for-the-badge
+[issues-url]: https://github.com/GinoSalazarVillena/Tarea1Metodologia/issues
+[license-shield]: https://img.shields.io/github/license/GinoSalazarVillena/Tarea1Metodologia.svg?style=for-the-badge
+[license-url]: https://github.com/GinoSalazarVillena/Tarea1Metodologia/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/GinoSalazarVillena/
+[product-screenshot]: images/screenshot.png
