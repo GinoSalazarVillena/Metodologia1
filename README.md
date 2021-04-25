@@ -123,7 +123,7 @@ Cronograma de proyecto
 <br />
 <p align="center">
   <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">
-    <img src="images/cronograma.png" alt="Logo" width="700" height="500">
+    <img src="images/cronograma1.png" alt="Logo" width="700" height="500">
   </a>
 </p>
 
