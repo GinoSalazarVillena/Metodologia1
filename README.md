@@ -92,7 +92,7 @@ Es un proyecto para administrar el flujo de personas dentro de un negocio hotele
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/screenshot.png" alt="Logo" width="900" height="500">
+    <img src="images/screenshot.png" alt="Logo" width="750" height="500">
   </a>
 </p>
 
