@@ -34,7 +34,7 @@ Repositorio Proyecto - EZ Hotel
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">
     <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
