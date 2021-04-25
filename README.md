@@ -182,16 +182,23 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Presentación del equipo scrum.
 
 PO: Diego Alegría 
+
 SM: Matías Aravena
 
 Development team:
 
 Gino Salazar
+
 Nicolás Salinas
+
 Jean Paul Moussiaux
+
 Jean Contreras
+
 Cristian Millán
+
 Alejandro Bórquez
+
 
 Link de proyecto: [https://github.com/GinoSalazarVillena/Tarea1Metodologia](https://github.com/GinoSalazarVillena/Tarea1Metodologia)
 
