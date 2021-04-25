@@ -88,7 +88,7 @@ Repositorio Proyecto - EZ Hotel
 ## About The Project
 Es un proyecto para administrar el flujo de personas dentro de un negocio hotelero. Se llama EZ Hotel es un sistema web y aplicación  de escritorio. Su ventaja sobre la competencia es que engloba el sistema financiero junto con el sistema administrativo en una sola aplicación.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.djangoproject.com/)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
