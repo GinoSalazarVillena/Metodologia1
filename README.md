@@ -92,11 +92,10 @@ Es un proyecto para administrar el flujo de personas dentro de un negocio hotele
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/screenshot.png" alt="Logo" width="500" height="500">
+    <img src="images/screenshot.png" alt="Logo" width="500" height="800">
   </a>
 </p>
 
-[![Product Name Screen Shot][product-screenshot]](https://www.djangoproject.com/)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
