@@ -97,8 +97,8 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []("Django")
-* []()
+* [Bootstrap](https://getbootstrap.com)
+* [Django](https://www.djangoproject.com)
 * []()
 
 
