@@ -96,6 +96,7 @@ Se llama EZ Hotel es un sistema web y aplicación  de escritorio. Su ventaja sob
   </a>
 </p>
 -------------------------------------------------
+
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
