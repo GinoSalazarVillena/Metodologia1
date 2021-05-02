@@ -138,9 +138,10 @@ Cronograma de proyecto
    ```sh
    git clone https://github.com/GinoSalazarVillena/Tarea1Metodologia.git
    ```
-2. Install venv
+2. Install Virtual environment
    ```sh
-   python -m venv "myvenv"
+   Windows: python -m venv "myvenv"
+   Linux and Os X: python3 -m venv myvenv
    ```
 ============================================================================
 
