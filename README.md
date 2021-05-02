@@ -138,10 +138,9 @@ Cronograma de proyecto
    ```sh
    git clone https://github.com/GinoSalazarVillena/Tarea1Metodologia.git
    ```
-2. Install Virtual environment
+2. Install venv
    ```sh
-   Windows: python -m venv "myvenv"
-   Linux and Os X: python3 -m venv myvenv
+   python -m venv "myvenv"
    ```
 ============================================================================
 
@@ -149,16 +148,14 @@ Cronograma de proyecto
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Ve como se puede usar nuestro proyecto en un prototipo. [Documentation](https://example.com)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+Ve nuestos [issues abiertos](https://github.com/github_username/repo_name/issues) para una lista de propuestas (y problemas conocidos).
 
 
 
