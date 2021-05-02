@@ -155,8 +155,8 @@ Ve como se puede usar nuestro proyecto en un prototipo. [Colunga Figma](https://
 <!-- ROADMAP -->
 ## Mapa de tiempo
 
-Ve nuestos [issues abiertos](https://github.com/GinoSalazarVillena/Tarea1Metodologia/issues) para una lista de propuestas (y problemas conocidos).
-
+Ve nuestos [issues abiertos](https://github.com/GinoSalazarVillena/Tarea1Metodologia/issues).
+Vea nuestros [Propuestas](https://github.com/GinoSalazarVillena/Tarea1Metodologia/projects/1) para una lista de propuestas (y problemas conocidos).
 
 
 <!-- CONTRIBUTING -->
