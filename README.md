@@ -138,9 +138,9 @@ Cronograma de proyecto
    ```sh
    git clone https://github.com/GinoSalazarVillena/Tarea1Metodologia.git
    ```
-2. Install NPM packages
+2. Install venv
    ```sh
-   npm install
+   python -m venv "myvenv"
    ```
 ============================================================================
 
