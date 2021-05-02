@@ -96,7 +96,7 @@ Colunga ofrece a sus miembros
 
 
 Click izquierdo en la imagen para visitar la pagina
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.figma.com/proto/JJj5UJMKXJUJ19EdW5DXix/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
 
 
