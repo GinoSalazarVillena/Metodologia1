@@ -35,7 +35,7 @@ Repositorio Proyecto - EZ Hotel
 <br />
 <p align="center">
   <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">
-    <img src="images/logo.png" alt="Logo" width="200" height="200">
+    <img src="images/logo1.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Plataforma Colunga</h3>
@@ -234,4 +234,4 @@ Link de proyecto: [https://github.com/GinoSalazarVillena/Tarea1Metodologia](http
 [license-url]: https://github.com/GinoSalazarVillena/Tarea1Metodologia/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/GinoSalazarVillena/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/paginaprincipal.png
