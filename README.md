@@ -1,5 +1,5 @@
 # Tarea1Metodologia
-Repositorio Proyecto - Plataforma Colunga
+Repositorio Proyecto - EZ Hotel
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -56,7 +56,7 @@ Repositorio Proyecto - Plataforma Colunga
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- Tabla de contenidos -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
@@ -85,7 +85,7 @@ Repositorio Proyecto - Plataforma Colunga
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Acerca del proyecto
 Este proyecto está orientado a centralizar la
 comunicación entre miembros de Colunga y las distintas
 organizaciones afiliadas. Entregando herramientas de
@@ -100,19 +100,19 @@ Click izquierdo en la imagen para visitar la pagina
 
 
 
-### Built With
+### Creado con
 
 * [Python](https://www.python.org/)
 * [Django](https://www.djangoproject.com)
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Para empezar
 
-To get a local copy up and running follow these simple steps.
+Clona el repositorio y sigue unos simples pasos.
 
-### Prerequisites
+### Prerequisitos
 
-This is an example of how to list things you need to use the software and how to install them.
+Ejemplo de como instalar el software.
 
 * python
   ```sh
