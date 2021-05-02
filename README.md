@@ -123,11 +123,11 @@ This is an example of how to list things you need to use the software and how to
   https://www.djangoproject.com
   ```
 ============================================================================
-## Cronograma de proyecto
+## Vision Board del proyecto
 <br />
 <p align="center">
   <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">
-    <img src="images/cronograma1.png" alt="Logo" width="700" height="500">
+    <img src="images/vision board.png" alt="Logo" width="700" height="500">
   </a>
 </p>
 
@@ -141,7 +141,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    python -m venv "myvenv"
    ```
-3. 
+
 ============================================================================
 
 
