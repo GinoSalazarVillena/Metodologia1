@@ -127,7 +127,7 @@ This is an example of how to list things you need to use the software and how to
 <br />
 <p align="center">
   <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">
-    <img src="images/vision board.png" alt="Logo" width="700" height="500">
+    <img src="images/visionboard.png" alt="Logo" width="700" height="500">
   </a>
 </p>
 
