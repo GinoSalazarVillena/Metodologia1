@@ -148,14 +148,14 @@ Cronograma de proyecto
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Ve como se puede usar nuestro proyecto en un prototipo. [Documentation](https://www.figma.com/proto/JJj5UJMKXJUJ19EdW5DXix/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
+Ve como se puede usar nuestro proyecto en un prototipo. [Colunga Figma](https://www.figma.com/proto/JJj5UJMKXJUJ19EdW5DXix/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-Ve nuestos [issues abiertos](https://github.com/github_username/repo_name/issues) para una lista de propuestas (y problemas conocidos).
+Ve nuestos [issues abiertos](https://github.com/GinoSalazarVillena/Tarea1Metodologia/issues) para una lista de propuestas (y problemas conocidos).
 
 
 
