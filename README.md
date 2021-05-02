@@ -85,7 +85,7 @@ Repositorio Proyecto - Plataforma Colunga
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Acerca del proyecto
 Este proyecto está orientado a centralizar la
 comunicación entre miembros de Colunga y las distintas
 organizaciones afiliadas. Entregando herramientas de
@@ -106,11 +106,11 @@ Click izquierdo en la imagen para visitar la pagina
 * [Django](https://www.djangoproject.com)
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Empezando
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+### Prerequisitos
 
 This is an example of how to list things you need to use the software and how to install them.
 
@@ -123,8 +123,7 @@ This is an example of how to list things you need to use the software and how to
   https://www.djangoproject.com
   ```
 ============================================================================
-## Getting Started
-Cronograma de proyecto
+## Cronograma de proyecto
 <br />
 <p align="center">
   <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">
@@ -132,7 +131,7 @@ Cronograma de proyecto
   </a>
 </p>
 
-### Installation
+### Instalacion
 
 1. Clone the repo
    ```sh
@@ -147,21 +146,21 @@ Cronograma de proyecto
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usabilidad
 
 Ve como se puede usar nuestro proyecto en un prototipo. [Colunga Figma](https://www.figma.com/proto/JJj5UJMKXJUJ19EdW5DXix/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Mapa de tiempo
 
 Ve nuestos [issues abiertos](https://github.com/GinoSalazarVillena/Tarea1Metodologia/issues) para una lista de propuestas (y problemas conocidos).
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuyendo
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -174,9 +173,9 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-## License
+## Licencia
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distribuido con MIT License. Ve `LICENSE` para mas informacion.
 
 
 
