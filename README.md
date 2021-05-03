@@ -104,15 +104,11 @@ Click izquierdo en la imagen para visitar la pagina
 * [Python](https://www.python.org/)
 * [Django](https://www.djangoproject.com)
 
-### Prerequisitos
+### Instalacion por consola de django
 
-* python
-  ```sh
-  https://www.python.org/
-  ```
 * django
   ```sh
-  https://www.djangoproject.com
+  pip3 install django
   ```
 ## Vision Board del proyecto
 <br />
@@ -149,7 +145,6 @@ Click izquierdo en la imagen para visitar la pagina
 ## Usabilidad
 
 Ve como se puede usar nuestro proyecto en un prototipo. [Colunga Figma](https://www.figma.com/proto/JJj5UJMKXJUJ19EdW5DXix/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
-
 
 
 <!-- ROADMAP -->
@@ -210,11 +205,7 @@ Link de proyecto: [https://github.com/GinoSalazarVillena/Tarea1Metodologia](http
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
-
-
+* Agradezco al pana Miguel
 
 
 
