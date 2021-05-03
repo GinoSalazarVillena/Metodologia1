@@ -56,7 +56,7 @@ Repositorio Proyecto - Plataforma Colunga
 
 
 
-<!--------------------------------------------------------------------------
+<!-
 <details open="open">
   <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
   <ol>
