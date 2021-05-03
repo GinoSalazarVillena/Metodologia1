@@ -110,11 +110,11 @@ Click izquierdo en la imagen para visitar la pagina
   ```sh
   pip3 install django
   ```
-## Vision Board del proyecto
+## Cronograma
 <br />
 <p align="center">
   <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">
-    <img src="images/visionboard.png" alt="Logo" width="1277" height="670">
+    <img src="images/cronogramacolunga.png" alt="Logo" width="746" height="564">
   </a>
 </p>
 <!------------------------------------------------------------
