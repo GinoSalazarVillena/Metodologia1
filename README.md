@@ -164,10 +164,9 @@ Distribuido con MIT License. Ve `LICENSE` para mas informacion.
 ## Contacto
 
 Presentación del equipo scrum.
-* <ul>
+  <ul>
   <li type="disc">PO: Diego Alegría</li>
   <li type="disc">SM: Matías Aravena</li>
-  Development team:
   <li type="disc">Gino Salazar</li>
   <li type="disc">Nicolás Salinas</li>
   <li type="disc">Jean Paul Moussiaux</li>
