@@ -155,8 +155,9 @@ Vea nuestros [Propuestas](https://github.com/GinoSalazarVillena/Tarea1Metodologi
 
 <!-- CONTACT -->
 ## Equipo Scrum
+
 Product Owner
- <ul>
+<ul>
   <li type="disc">Diego Alegría</li>
 </ul>
 Scrum Master
