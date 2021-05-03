@@ -155,11 +155,16 @@ Vea nuestros [Propuestas](https://github.com/GinoSalazarVillena/Tarea1Metodologi
 
 <!-- CONTACT -->
 ## Equipo Scrum
-
-  <ul>
-  Product Owner
+Product Owner
+ <ul>
   <li type="disc">Diego Alegría</li>
-  <li type="disc">SM: Matías Aravena</li>
+</ul>
+Scrum Master
+<ul>
+  <li type="disc">Matías Aravena</li>
+</ul>
+Scrum team
+<ul>
   <li type="disc">Gino Salazar</li>
   <li type="disc">Nicolás Salinas</li>
   <li type="disc">Jean Paul Moussiaux</li>
