@@ -106,8 +106,6 @@ Colunga ofrece a sus miembros
 * [Django](https://www.djangoproject.com)
 
 ### Instalacion por consola de django
-
-* django
   ```sh
   pip3 install django
   ```
