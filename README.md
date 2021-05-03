@@ -93,7 +93,7 @@ Colunga ofrece a sus miembros
 
 [![Product Name Screen Shot][product-screenshot]](https://www.figma.com/proto/JJj5UJMKXJUJ19EdW5DXix/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
-## Cronograma
+## Cronograma del proyecto
 <br />
 <p align="center">
   <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">
@@ -131,11 +131,11 @@ Colunga ofrece a sus miembros
    cd "nombreproyecto"
    Scripts\activate.bat
    ```
-3. Instalando Django dentro del entorno.
+3. Creamos un proyecto Django dentro del entorno.
    ```sh
     django-admin startproject "nombreproyecto"
    ```
-4. Creamos el archivo de texto requiments.txt
+4. Creamos el archivo de texto requiments.txt.
     ```sh
     pip freeze > requirements.txt
    ```
