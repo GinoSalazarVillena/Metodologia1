@@ -149,12 +149,6 @@ Ve como se puede usar nuestro proyecto en un prototipo.
 Ve nuestos [issues abiertos](https://github.com/GinoSalazarVillena/Tarea1Metodologia/issues).
 Vea nuestros [Propuestas](https://github.com/GinoSalazarVillena/Tarea1Metodologia/projects/1) para una lista de propuestas (y problemas conocidos).
 
-<!-- LICENSE -->
-## Licencia
-
-Distribuido con MIT License. Ve `LICENSE` para mas informacion.
-
-
 
 <!-- CONTACT -->
 ## Contacto
@@ -176,6 +170,10 @@ Presentación del equipo scrum.
 
 * Agradezco al pana Miguel
 
+<!-- LICENSE -->
+## Licencia
+
+Distribuido con MIT License. Ve `LICENSE` para mas informacion.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/GinoSalazarVillena/Tarea1Metodologia.svg?style=for-the-badge
