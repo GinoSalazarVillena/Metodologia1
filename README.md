@@ -54,8 +54,6 @@ Repositorio Proyecto - Plataforma Colunga
   </p>
 </p>
 
-
-
 <!-
 <details open="open">
   <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
@@ -93,9 +91,6 @@ contacto, de creación y organización de reuniones vía
 online y presencial, para compartir los beneficios que
 Colunga ofrece a sus miembros
 
-
-
-Click izquierdo en la imagen para visitar la pagina
 [![Product Name Screen Shot][product-screenshot]](https://www.figma.com/proto/JJj5UJMKXJUJ19EdW5DXix/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
 ## Cronograma
@@ -127,25 +122,25 @@ Click izquierdo en la imagen para visitar la pagina
 <!-- GETTING STARTED -->
 
 ## Empezando
-1. Creando un entorno venv
+1. Creando un entorno virtual.
    ```sh
    python -m venv "myvenv"
    ```
-2. Activando entorno en la carpeta clonada https://github.com/GinoSalazarVillena/Tarea1Metodologia.git
+2. Activamos el entorno virtual.
    ```sh
    cd "nombreproyecto"
    Scripts\activate.bat
    ```
-3. Instalando Django dentro del entorno
+3. Instalando Django dentro del entorno.
    ```sh
     django-admin startproject "nombreproyecto"
    ```
-4. Esta listo para poder crear la plantilla de la pagina web
 
 <!-- USAGE EXAMPLES -->
 ## Usabilidad
 
-Ve como se puede usar nuestro proyecto en un prototipo. [Colunga Figma](https://www.figma.com/proto/JJj5UJMKXJUJ19EdW5DXix/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
+Ve como se puede usar nuestro proyecto en un prototipo. 
+[Colunga Figma](https://www.figma.com/proto/JJj5UJMKXJUJ19EdW5DXix/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
 
 <!-- ROADMAP -->
@@ -175,10 +170,6 @@ Presentación del equipo scrum.
   <li type="disc">Cristian Millán</li>
   <li type="disc">Alejandro Bórquez</li>
 </ul>
-
-
-Link de proyecto: [https://github.com/GinoSalazarVillena/Tarea1Metodologia](https://github.com/GinoSalazarVillena/Tarea1Metodologia)
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Agradecimientos
