@@ -135,7 +135,10 @@ Colunga ofrece a sus miembros
    ```sh
     django-admin startproject "nombreproyecto"
    ```
-
+4. Creamos el archivo de texto requiments.txt
+    ```sh
+    pip freeze > requirements.txt
+   ```
 <!----------
 ## Usabilidad
 
