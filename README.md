@@ -154,11 +154,11 @@ Vea nuestros [Propuestas](https://github.com/GinoSalazarVillena/Tarea1Metodologi
 
 
 <!-- CONTACT -->
-## Contacto
+## Equipo Scrum
 
-Presentación del equipo scrum.
   <ul>
-  <li type="disc">PO: Diego Alegría</li>
+  Product Owner
+  <li type="disc">Diego Alegría</li>
   <li type="disc">SM: Matías Aravena</li>
   <li type="disc">Gino Salazar</li>
   <li type="disc">Nicolás Salinas</li>
