@@ -124,7 +124,7 @@ Click izquierdo en la imagen para visitar la pagina
    git clone https://github.com/GinoSalazarVillena/Tarea1Metodologia.git
    ```
 <!-- GETTING STARTED -->
-<!-------------------------------------------------------------
+
 ## Empezando
 1. Creando un entorno venv
    ```sh
@@ -153,20 +153,6 @@ Ve como se puede usar nuestro proyecto en un prototipo. [Colunga Figma](https://
 Ve nuestos [issues abiertos](https://github.com/GinoSalazarVillena/Tarea1Metodologia/issues).
 Vea nuestros [Propuestas](https://github.com/GinoSalazarVillena/Tarea1Metodologia/projects/1) para una lista de propuestas (y problemas conocidos).
 
-
-<!-- CONTRIBUTING -->
-## Contribuyendo
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
 <!-- LICENSE -->
 ## Licencia
 
@@ -178,35 +164,26 @@ Distribuido con MIT License. Ve `LICENSE` para mas informacion.
 ## Contacto
 
 Presentación del equipo scrum.
-
-PO: Diego Alegría 
-
-SM: Matías Aravena
-
-Development team:
-
-Gino Salazar
-
-Nicolás Salinas
-
-Jean Paul Moussiaux
-
-Jean Contreras
-
-Cristian Millán
-
-Alejandro Bórquez
+* <ul>
+  <li type="disc">PO: Diego Alegría</li>
+  <li type="disc">SM: Matías Aravena</li>
+  Development team:
+  <li type="disc">Gino Salazar</li>
+  <li type="disc">Nicolás Salinas</li>
+  <li type="disc">Jean Paul Moussiaux</li>
+  <li type="disc">Jean Contreras</li>
+  <li type="disc">Cristian Millán</li>
+  <li type="disc">Alejandro Bórquez</li>
+</ul>
 
 
 Link de proyecto: [https://github.com/GinoSalazarVillena/Tarea1Metodologia](https://github.com/GinoSalazarVillena/Tarea1Metodologia)
-
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
 * Agradezco al pana Miguel
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
