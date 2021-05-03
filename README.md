@@ -136,7 +136,7 @@ Colunga ofrece a sus miembros
     django-admin startproject "nombreproyecto"
    ```
 
-<!-- USAGE EXAMPLES -->
+<!----------
 ## Usabilidad
 
 Ve como se puede usar nuestro proyecto en un prototipo. 
@@ -168,7 +168,7 @@ Presentación del equipo scrum.
 <!-- ACKNOWLEDGEMENTS -->
 ## Agradecimientos
 
-* Agradezco al pana Miguel
+* Agradecemos UNICAMENTE a la Profesora Sara Gonzalez, TE AMAMOS <3 "La profe sarita"
 
 <!-- LICENSE -->
 ## Licencia
