@@ -99,20 +99,12 @@ Click izquierdo en la imagen para visitar la pagina
 [![Product Name Screen Shot][product-screenshot]](https://www.figma.com/proto/JJj5UJMKXJUJ19EdW5DXix/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
 
-
-### Built With
+### Construido con
 
 * [Python](https://www.python.org/)
 * [Django](https://www.djangoproject.com)
 
-<!-- GETTING STARTED -->
-## Empezando
-
-To get a local copy up and running follow these simple steps.
-
 ### Prerequisitos
-
-This is an example of how to list things you need to use the software and how to install them.
 
 * python
   ```sh
@@ -122,7 +114,6 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   https://www.djangoproject.com
   ```
-============================================================================
 ## Vision Board del proyecto
 <br />
 <p align="center">
@@ -130,20 +121,29 @@ This is an example of how to list things you need to use the software and how to
     <img src="images/visionboard.png" alt="Logo" width="1277" height="670">
   </a>
 </p>
-
+<!------------------------------------------------------------
 ### Instalacion
-
-1. Clone the repo
+ Clone the repo
    ```sh
    git clone https://github.com/GinoSalazarVillena/Tarea1Metodologia.git
    ```
-2. Install venv
+<!-- GETTING STARTED -->
+<!-------------------------------------------------------------
+## Empezando
+1. Creando un entorno venv
    ```sh
    python -m venv "myvenv"
    ```
-
-============================================================================
-
+2. Activando entorn, en la carpeta clonada https://github.com/GinoSalazarVillena/Tarea1Metodologia.git
+   ```sh
+   cd "nombreproyecto"
+   Scripts\activate.bat
+   ```
+3. Instalando Django dentro del entorno
+   ```sh
+    django-admin startproject "nombreproyecto"
+   ```
+4.Esta listo para poder crear la plantilla de la pagina web
 
 <!-- USAGE EXAMPLES -->
 ## Usabilidad
