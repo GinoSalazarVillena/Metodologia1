@@ -56,14 +56,14 @@ Repositorio Proyecto - Plataforma Colunga
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!--------------------------------------------------------------------------
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Acerca del proyecto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Construido con</a></li>
       </ul>
     </li>
     <li>
@@ -98,6 +98,13 @@ Colunga ofrece a sus miembros
 Click izquierdo en la imagen para visitar la pagina
 [![Product Name Screen Shot][product-screenshot]](https://www.figma.com/proto/JJj5UJMKXJUJ19EdW5DXix/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
+## Cronograma
+<br />
+<p align="center">
+  <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">
+    <img src="images/cronogramacolunga.png" alt="Logo" width="746" height="564">
+  </a>
+</p>
 
 ### Construido con
 
@@ -110,13 +117,7 @@ Click izquierdo en la imagen para visitar la pagina
   ```sh
   pip3 install django
   ```
-## Cronograma
-<br />
-<p align="center">
-  <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">
-    <img src="images/cronogramacolunga.png" alt="Logo" width="746" height="564">
-  </a>
-</p>
+
 <!------------------------------------------------------------
 ### Instalacion
  Clone the repo
@@ -130,7 +131,7 @@ Click izquierdo en la imagen para visitar la pagina
    ```sh
    python -m venv "myvenv"
    ```
-2. Activando entorn, en la carpeta clonada https://github.com/GinoSalazarVillena/Tarea1Metodologia.git
+2. Activando entorno en la carpeta clonada https://github.com/GinoSalazarVillena/Tarea1Metodologia.git
    ```sh
    cd "nombreproyecto"
    Scripts\activate.bat
@@ -139,7 +140,7 @@ Click izquierdo en la imagen para visitar la pagina
    ```sh
     django-admin startproject "nombreproyecto"
    ```
-4.Esta listo para poder crear la plantilla de la pagina web
+4. Esta listo para poder crear la plantilla de la pagina web
 
 <!-- USAGE EXAMPLES -->
 ## Usabilidad
@@ -180,10 +181,9 @@ Link de proyecto: [https://github.com/GinoSalazarVillena/Tarea1Metodologia](http
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Agradecimientos
 
 * Agradezco al pana Miguel
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
