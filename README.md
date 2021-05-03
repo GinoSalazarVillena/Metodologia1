@@ -46,7 +46,7 @@ Repositorio Proyecto - Plataforma Colunga
     <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">View Demo</a>
+    <a href="https://www.figma.com/proto/JJj5UJMKXJUJ19EdW5DXix/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1">Ver demo</a>
     ·
     <a href="https://github.com/GinoSalazarVillena/Tarea1Metodologia">Report Bug</a>
     ·
