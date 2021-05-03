@@ -143,7 +143,7 @@ Ve como se puede usar nuestro proyecto en un prototipo.
 [Colunga Figma](https://www.figma.com/proto/JJj5UJMKXJUJ19EdW5DXix/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
 
-<!-- ROADMAP -->
+<!---------------------------
 ## Mapa de tiempo
 
 Ve nuestos [issues abiertos](https://github.com/GinoSalazarVillena/Tarea1Metodologia/issues).
