@@ -119,7 +119,7 @@ Colunga ofrece a sus miembros
 <!-- GETTING STARTED -->
 
 ## Empezando
-1. Creando un entorno virtual.
+1. Creamos un entorno virtual.
    ```sh
    python -m venv "myvenv"
    ```
