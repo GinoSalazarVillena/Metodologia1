@@ -1,0 +1,54 @@
+header, footer{
+    background-color:chartreuse;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.separador1{
+    height: 10px;
+    clear:both;
+}
+
+.uno{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.main{
+    height: 1200px;
+}
+
+img{
+    transition: all 0.5s ease;
+    border-style: solid;
+}
+
+img:hover{
+    transform:scale(0.9);
+    border-radius: 30px;
+}
+
+
+.container.row.col-3.img1{
+    border-color: blue;
+}
+
+.logo{
+    width: 20%;
+}
+
+body{
+    background: url("/static/img/img2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
