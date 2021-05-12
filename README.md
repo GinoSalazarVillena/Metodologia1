@@ -119,23 +119,32 @@ Colunga ofrece a sus miembros
 <!-- GETTING STARTED -->
 
 ## Empezando
-1. Creamos un entorno virtual.
+1. Clonamos el proyecto.
+   ```sh
+    git clone https://github.com/GinoSalazarVillena/Tarea1Metodologia
+   ```
+2. Creamos un entorno virtual.
    ```sh
    python -m venv "myvenv"
    ```
-2. Activamos el entorno virtual.
+3. Nos situamos dentro de "myvenv".
    ```sh
-   cd "nombreproyecto"
+   cd "myvenv"
+   ```
+4. Activamos el entorno virtual.
+   ```sh
    Scripts\activate.bat
    ```
-3. Creamos un proyecto Django dentro del entorno.
+5. Nos situamos dentro de la carpeta que se clonó.
    ```sh
-    django-admin startproject "nombreproyecto"
+    cd C:\Trabajo2\entorno1\ladingpage
    ```
-4. Creamos el archivo de texto requiments.txt.
-    ```sh
-    pip freeze > requirements.txt
+   
+6. Activamos la pagina web mediante el comando.
+   ```sh
+    python manage.py runserver
    ```
+   
 <!----------
 ## Usabilidad
 
