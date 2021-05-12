@@ -144,7 +144,10 @@ Colunga ofrece a sus miembros
    ```sh
     python manage.py runserver
    ```
-   
+7. Entramos al navegador y escribimos.
+   ```sh
+    http://127.0.0.1:8000/index
+   ```
 <!----------
 ## Usabilidad
 
