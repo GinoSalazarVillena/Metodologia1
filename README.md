@@ -90,6 +90,8 @@ contacto, de creación y organización de reuniones vía
 online y presencial, para compartir los beneficios que
 Colunga ofrece a sus miembros
 
+## Landing Page
+
 ![Product Name Screen Shot][product-screenshot]
 
 ## Cronograma del proyecto
