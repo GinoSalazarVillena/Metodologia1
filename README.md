@@ -206,4 +206,4 @@ Distribuido con MIT License. Ve `LICENSE` para mas informacion.
 [license-url]: https://github.com/GinoSalazarVillena/Tarea1Metodologia/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/GinoSalazarVillena/
-[product-screenshot]: images/captura1.png
+[product-screenshot]: images/Captura1.png
