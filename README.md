@@ -1,4 +1,4 @@
-# Tarea1Metodologia
+# Tarea1 - Metodologia
 Repositorio Proyecto - Plataforma Colunga
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
